@@ -1,1 +1,3 @@
 # rust
+
+Rust exercises repo
